@@ -1,37 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.f2d0cf7e.css",
-    "main.js": "/static/js/main.7f105dc4.js",
-    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
-    "static/media/TEDSpeakeronstage.png": "/static/media/TEDSpeakeronstage.c1dcc852beac5b45026a.png",
+    "main.css": "/static/css/main.d87674d6.css",
+    "main.js": "/static/js/main.7877bb4e.js",
     "static/media/websiteImage.png": "/static/media/websiteImage.76ee43eda37b0a90df66.png",
-    "static/media/sharing-ideas.png": "/static/media/sharing-ideas.2ff887c2ee6e02ba488c.png",
     "static/media/bg-sponsors.png": "/static/media/bg-sponsors.6557c14cd6e393de8ae2.png",
-    "static/media/tedxliverpool.jpg": "/static/media/tedxliverpool.807add18ef065da478da.jpg",
-    "static/media/rever-mobile.png": "/static/media/rever-mobile.e0a2c200d55260e814ce.png",
-    "static/media/6966949009_bc04b8574d_b.jpg": "/static/media/6966949009_bc04b8574d_b.4f139ab00838ca23ba39.jpg",
     "static/media/rever3.jpg": "/static/media/rever3.3442b74210f72d5d9cd4.jpg",
-    "static/media/13960928938_2b61870e8f_b.jpg": "/static/media/13960928938_2b61870e8f_b.ad1821d3eddb1885f145.jpg",
     "static/media/Reverberated-180.png": "/static/media/Reverberated-180.886f1ba613cbfb7fffcb.png",
-    "static/media/tedx-1200x800.jpg": "/static/media/tedx-1200x800.9339420df7ee716b97ae.jpg",
-    "static/media/TEDx-Lights.jpg": "/static/media/TEDx-Lights.d54fefa02def1e847f9c.jpg",
-    "static/media/getInvolved.jpg": "/static/media/getInvolved.c3af8fb3e6c09412bbb1.jpg",
-    "static/media/network-human-silhouettes-artificial-intelligence-healthcare-1068x601.jpg": "/static/media/network-human-silhouettes-artificial-intelligence-healthcare-1068x601.1046bb020822c2c768a9.jpg",
     "static/media/rever.jpg": "/static/media/rever.a38810445ce04e7a7d32.jpg",
-    "static/media/31871755560_3011675803_b.jpg": "/static/media/31871755560_3011675803_b.cc4763a9f65d0e013e39.jpg",
-    "static/media/HuovaDemo-Light.ttf": "/static/media/HuovaDemo-Light.232fdc1ae53483caf57e.ttf",
-    "static/media/tedxnitjLogoTwoLine.png": "/static/media/tedxnitjLogoTwoLine.7b858b07b0a12a9583a0.png",
     "index.html": "/index.html",
-    "static/media/nav-icon3.svg": "/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
-    "static/media/logo.svg": "/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
-    "static/media/nav-icon1.svg": "/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
-    "static/media/email.svg": "/static/media/email.c6191b999faad4fad0ba014311776e84.svg",
-    "main.f2d0cf7e.css.map": "/static/css/main.f2d0cf7e.css.map",
-    "main.7f105dc4.js.map": "/static/js/main.7f105dc4.js.map",
-    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+    "main.d87674d6.css.map": "/static/css/main.d87674d6.css.map",
+    "main.7877bb4e.js.map": "/static/js/main.7877bb4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2d0cf7e.css",
-    "static/js/main.7f105dc4.js"
+    "static/css/main.d87674d6.css",
+    "static/js/main.7877bb4e.js"
   ]
 }
