@@ -310,8 +310,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 .fixedBack {
   display: flex;
   /* position: relative; */
-  /* padding: auto; */
-  padding: 2vw;
+  padding: auto;
+  /* padding: 2vw; */
   /* align-items: center; */
   height: 100vh;
   background-color: #000;
@@ -344,6 +344,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
     background-position: center center;
     background-size: cover;
     flex-direction: column;
+    /* padding:5px; */
   }
   .events{
     width: 80%;
@@ -356,9 +357,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../src/assets/img/rever3.jpg) ;
+    height:100vh;
   }
+  
   .events{
-    width: 80%;
+    width: 100%;
   }
 
   .banner {
@@ -426,9 +429,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
 
 .heading__mobile h1 {
   color: white;
-  font-size: 4rem;
+  font-size: 5rem;
   font-family: "HelveticaNeueLTStd", sans-serif;
   font-weight: 900;
+  /* padding:3px; */
 }
 .headingmain{
   display: flex;
@@ -1032,6 +1036,7 @@ align-items: center;
 
 .makeitred {
   color: #8c8e8f;
+  padding: 1px;
 }
 .redback{
   background-color: #37d72b; 
