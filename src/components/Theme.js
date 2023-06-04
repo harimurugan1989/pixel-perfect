@@ -89,9 +89,9 @@ export const Theme = () => {
                 <ul>
                   <li>Winner: Rs. 5000 (one team)</li>
                   <li>Runner up: Rs. 2000 (one team)</li>
-                  <li>DevGirl Champs (Team comprises of all girls): Rs. 500 (one team) </li>
-                  <li>Emerging Dev (Team comprises of all 2021 batch students): Rs.500 (one team)</li>
-                  <li>Other exciting rewards : Rs. 2000 (for 5 teams)</li>
+                  <li>DevGirl Champs (Team comprises of only girls): Rs. 500 (one team) </li>
+                  <li>Emerging Dev (Team comprises of only 2021 batch students): Rs.500 (one team)</li>
+                  <li>Other exciting rewards : Rs. 2000 (Divided among 5 teams)</li>
                   <li>Participation certificate for all teams</li>
                   <li>Awarded teams get an opportunity to work with WDMC development cell (paid intern)</li>
 
