@@ -357,7 +357,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../src/assets/img/rever3.jpg) ;
-    height:100vh;
+    /* height:90vh; */
   }
   
   .events{
@@ -369,7 +369,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
     align-items: center;
     font-family: 'Plus Jakarta Sans';
     padding: 40px;
-    /* height: 100vh; */
+    height: 100vh;
     width: 100%;
     text-align: justify;
     

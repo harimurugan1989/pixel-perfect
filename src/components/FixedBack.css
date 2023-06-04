@@ -263,12 +263,31 @@
         font-size: 75%
     }
     .fixedBack{
-        height: 80vh;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
         font-family: Poppins, sans-serif !important;
     }
+    .button2 {
+        display: table-cell;
+        color: #fff;
+        position:center;
+        border: 1px solid #fff;
+        padding: 18px 59px;
+        font-size: 18px;
+        background: linear-gradient(to right, transparent 50%, #8c8e8f 50%);
+        background-size: 200% 100%;
+        background-position: right bottom;
+        transition: all .5s ease-out;
+        text-align: center;
+      }
+      .white-text{
+        text-align: center;
+        color:white;
+        padding:10px;
+        margin-bottom: -0.5rem
+      } 
     .heading__mobile2 h1{
         font-size: 1.5rem;
     }
@@ -308,7 +327,7 @@
   }
   @media screen and (max-width:767px) {
     .fixedBack{
-        height: 80vh;
+        height: 100vh;
         display: flex;
         flex-direction: column;
         justify-content: space-between;

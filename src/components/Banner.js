@@ -52,7 +52,7 @@ export const Banner = () => {
       {!showDetails && (
         <div className="load-more">
           <button className="redback load-more-button" onClick={handleLoadMore}>
-            Load More
+             Dive Deeper
           </button>
         </div>
       )}
