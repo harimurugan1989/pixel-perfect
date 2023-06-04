@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import React from 'react';
-import logo from '../assets/img/rever.jpg';
+import logo from '../assets/img/reverfinal.png';
 import { Nav } from "react-bootstrap";
 import { NavLink, Link } from "react-router-dom";
 
@@ -28,7 +28,7 @@ export const Navbaar = () => {
   return (
     <nav class={scrolled ? "navbar fixed-top scrolled" : "navbar fixed-top"}>
       <div class="container-fluid">
-        <Link to="/"><a class="navbar-brand" ><img src={logo} style={{ width: '40px', height: 'auto' }} alt="Logo" /></a></Link> 
+        <Link to="/"><a class="navbar-brand" ><img src={logo} style={{ width: '220px', height: 'auto' }} alt="Logo" /></a></Link> 
         <div className="nav-options">
 
           {/* <Nav className="ms-auto">
