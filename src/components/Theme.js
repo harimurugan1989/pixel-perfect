@@ -69,7 +69,7 @@ export const Theme = () => {
                   <li>Registration Fee: Rs. 150 per team</li>
                   <li>Team can have maximum of three members (one team leader and two other members)</li>
                   <li> Front end technology : React.js</li>
-                  <li>Back end techonoly :  Node.js</li>
+                  <li>Back end technology :  Node.js</li>
                   <li>Mongodb</li>
                   <li>Figma knowledge will be an added advantage</li>
                   </ul>
