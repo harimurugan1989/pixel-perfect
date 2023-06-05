@@ -66,14 +66,14 @@ export const Theme = () => {
                 
               <h1 className='about_heading'>Registration<span className="white-text">Details</span></h1>
                 <ul>
-                  <li>Registration Fee: 150 per team</li>
+                  <li>Registration Fee: Rs. 150 per team</li>
                   <li>Team can have maximum of three members (one team leader and two other members)</li>
                   <li> Front end technology : React.js</li>
                   <li>Back end techonoly :  Node.js</li>
                   <li>Mongodb</li>
                   <li>Figma knowledge will be an added advantage</li>
                   </ul>
-                  <button className="button2 redback" onClick={() => { window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSd5dZF3v-r9irXmCH9S2BRLPIPSxWsPyRF2hbOLyMvpdZJ48Q/viewform'; }} id="myButton" target="_blank"><span>Sign Up to PIXEL PERFECT!!</span></button>
+                  <button className="button2 redback" onClick={() => { window.location.href = 'https://docs.google.com/document/d/1BjM7Zdo_nxm7IrXwp_yXO-xCw_Ln7HI2EC5TErOz2DY/edit?usp=sharing'; }} id="myButton" target="_blank"><span>Detailed Problem Statement</span></button>
                    </Fade>
           {/* <div className='heading__mobile2'> */}
      
