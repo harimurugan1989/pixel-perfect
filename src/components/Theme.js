@@ -73,7 +73,7 @@ export const Theme = () => {
                   <li>Mongodb</li>
                   <li>Figma knowledge will be an added advantage</li>
                   </ul>
-                  <button className="button2 redback" onClick={() => { window.location.href = 'https://docs.google.com/document/d/1BjM7Zdo_nxm7IrXwp_yXO-xCw_Ln7HI2EC5TErOz2DY/edit?usp=sharing'; }} id="myButton" target="_blank"><span>Detailed Problem Statement</span></button>
+                  <button className="button2 redback" onClick={() => { window.location.href = 'https://docs.google.com/document/d/1BjM7Zdo_nxm7IrXwp_yXO-xCw_Ln7HI2EC5TErOz2DY/edit?usp=sharing'; }} id="myButton" target="_blank"><span>Detailed Problem Statement (access through institute id)</span></button>
                    </Fade>
           {/* <div className='heading__mobile2'> */}
      
