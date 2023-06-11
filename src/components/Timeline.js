@@ -14,7 +14,7 @@ const timelineData = [
     },
     {
         text: 'Closing of Registration',
-        date: '10-06-2023, 11:59 PM',
+        date: '11-06-2023, 11:59 PM',
       
     },
     {
