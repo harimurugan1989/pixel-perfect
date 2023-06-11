@@ -18,38 +18,38 @@ const timelineData = [
       
     },
     {
-        text: 'Workshop on Figma',
+        text: 'Workshop on Figma (Online)',
         date: '11-06-2023',
       
     },
     {
-        text: 'Submission of Figma Design',
+        text: 'Submission of Figma Design (Online submission)',
         date: '17-06-2023,11:59 PM',
       
     },
     {
-        text: 'Session on React',
+        text: 'Session on React (Online)',
         date: '18-06-2023',
       
     },
     {
-        text: 'Session on Git and Github',
+        text: 'Session on Git and Github (Online)',
         date: '19-06-2023',
       
     },
     {
-        text: ' Submission of Front end design',
+        text: ' Submission of Front end design (Online)',
         date: '30-06-2023,11:59 PM',
       
     },
     {
-        text: 'Complete analysis and feedback by evaluators',
+        text: 'Complete analysis and feedback by evaluators (Online)',
         date: '07-07-2023,11:59 PM',
       
     },
     {
-        text: 'Final submission of new task and evaluation (offline)',
-        date: 'First week of reopening',
+        text: 'Final submission and evaluation along with prize distribution(offline)',
+        date: 'Third week of July ',
       
     },
     
