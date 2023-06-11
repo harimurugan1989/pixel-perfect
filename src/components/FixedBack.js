@@ -126,7 +126,7 @@ const handleClose2 = () => setShow2(false)
 
 
         <Fade direction='up' triggerOnce>
-      <h2 className='white-text'>Registration Closes in</h2> </Fade>
+      <h2 className='white-text'>Registration Closes in (extended new deadline)</h2> </Fade>
       </div>
       <div className="Timer">
       
