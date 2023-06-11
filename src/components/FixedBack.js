@@ -65,7 +65,7 @@ const handleClose2 = () => setShow2(false)
             <div className="headingmain">
             <div className='heading__mobile2'>
         <Fade direction='up' triggerOnce>
-        <span className="makeitred"><h2>WDMC Presents Internal Design Hackathon</h2> </span> </Fade>
+        <span className="makeitred"><h2>NITJ's WDMC Presents Design Hackathon</h2> </span> </Fade>
       </div>
       
 
