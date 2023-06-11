@@ -19,7 +19,7 @@ const timelineData = [
     },
     {
         text: 'Workshop on Figma (Online)',
-        date: '11-06-2023',
+        date: '12-06-2023',
       
     },
     {
